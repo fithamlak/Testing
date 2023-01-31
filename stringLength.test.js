@@ -3,8 +3,6 @@ test('Input is String type and its length is 9', () => {
     expect(() => stringLength('fithamlak').toBe(9));
   });
 
-//   cehek if it is string
-
 test('Input is not String type', () => {
     expect(() => stringLength(12)).toThrow();
   });
