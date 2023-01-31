@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "project to practice unit testing with just",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fithamlak/Testing.git"
+  },
+  "author": "fithamlak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fithamlak/Testing/issues"
+  },
+  "homepage": "https://github.com/fithamlak/Testing#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
